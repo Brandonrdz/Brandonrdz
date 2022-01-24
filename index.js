@@ -1,29 +1,18 @@
 var estudiantes = [
+   
     {
-    apellidop: "Leija",
-    apellidom: "Chavana",
-    nombre: "Ediel",
-    edad: 22,
+    apellidop: "CRUZ",
+    apellidom: "RODRIGUEZ",
+    nombre: "BRANDON",
+    edad: 23,
     fechanacimiento: {
-    año: 1999,
-    mes: "septiembre",
-    dia: 4
-     },
-     carrera: "IRYC"
-    },
-
-    {
-    apellidop: "Morales",
-    apellidom: "Hernandez",
-    nombre: "Jared",
-    edad: 21,
-    fechanacimiento: {
-    año: 2000,
-    mes: "Marzo",
-    dia: 18
+    año: 1998,
+    mes: "MAYO",
+    dia: 05
      },
     carrera: "IRYC"
     }
+    
 ]
 
 var table = document.getElementsByTagName("table")[0];
