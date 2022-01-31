@@ -1,17 +1,41 @@
 var estudiantes = [
    
     {
-    apellidop: "CRUZ",
-    apellidom: "RODRIGUEZ",
-    nombre: "BRANDON",
-    edad: 23,
+    apellidop: "MORALES",
+    apellidom: "HERNANDEZ",
+    nombre: "JARED",
+    edad: 21,
     fechanacimiento: {
-    año: 1998,
-    mes: "MAYO",
-    dia: 05
+    año: 2000,
+    mes: "AGOSTO",
+    dia: 10
      },
     carrera: "IRYC"
-    }
+    },
+    {
+        apellidop: "LEIJA",
+        apellidom: "CHAVANA",
+        nombre: "EDIEL",
+        edad: 21,
+        fechanacimiento: {
+        año: 2000,
+        mes: "SEPTIEMBRE",
+        dia: 23
+         },
+        carrera: "IRYC"
+        },
+        {
+            apellidop: "CRUZ",
+            apellidom: "RODRIGUEZ",
+            nombre: "BRANDON",
+            edad: 23,
+            fechanacimiento: {
+            año: 1998,
+            mes: "MAYO",
+            dia: 05
+             },
+            carrera: "IRYC"
+            }
     
 ]
 
